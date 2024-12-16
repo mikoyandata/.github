@@ -32,10 +32,7 @@ Our team possesses deep expertise in:
 ## Our Projects
 
 We are proud to have worked on a range of impactful projects, including:
-
-- **Project A:** A scalable distributed storage system for a global enterprise.
-- **Project B:** A big data analytics platform that processes petabytes of data daily.
-- **Project C:** An AI-driven solution for real-time data insights and decision-making.
+ 
 
 ## Get in Touch
 
